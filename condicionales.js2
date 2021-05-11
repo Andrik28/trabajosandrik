@@ -1,0 +1,21 @@
+//variable
+var="el nombre de mi variable"
+var edad=18 //Number
+var string="texto"//texto
+var booleano=true
+inputs/outputs 
+alert("dejo de funcionar")
+prompt()
+console.log(edad)
+//operadores aritmeticos 
+//suma+
+//resta-
+//multiplicación*
+//division/ 
+//comparativas==
+
+var num1=10
+var num2="20"
+
+num1+num2
+var sun=mum1+num2console.log(sun)

@@ -1,0 +1,31 @@
+<HTML>
+  	<HEAD><TITLE>Proyecto contraseña</TITLE></HEAD>
+	<script  LANGUAJE="JavaScript">
+	function valida(f)	
+	{
+	if (f.elements[1].value == "PERRITO")
+		{
+		alert("muy bien, CONTRASSEÑA CORRECTA");
+		}
+		else
+		{
+		alert("VUELVE A CAPTURAR LA CONTRASEÑA");
+		}
+	}
+	</script>		
+	<BODY BACKGROUND="C:\8.jpg"> 
+	<BR>
+	<FORM id="miForm" action="" method="get" onsubmit="return valida(this)">
+	<CENTER><P>
+	<font SIZE=10 face="arial" color="green">HOLA COMO ESTÁS</font></P>
+	<BR> <BR> <BR> <BR> <BR> <BR> <BR>
+	<font SIZE=5 face="arial" color="blue">CORREO ELECTRONICO</font><BR>
+	<INPUT TYPE="TEXT" id="NOMBRE"><BR> <BR>
+	<font SIZE=5 face="arial" color="blue">CONTRASEÑA</font><BR>
+	<INPUT TYPE="PASSWORD" id="PASWORD" SIZE="8"><BR> <BR>
+	<INPUT TYPE="submit" VALUE="ACEPTAR"><INPUT TYPE="reset" VALUE="BORRA"><BR>	
+	</FORM>
+	</BODY>
+</HTML>
+
+

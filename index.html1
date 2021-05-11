@@ -1,0 +1,14 @@
+//1.crear una función llamada sum que reciba dos parametros "a" y "b" y regrese la suma de ambos parametros
+
+var a=10
+
+
+var sum=a+b
+console.log(sum)
+
+//2.crear una función llamada subs que reste dos parametros "a"y "b" y regrese el resultado de la resta 
+
+
+//3.crear una función que se le llame mayorDeEdad, recibira una edad como parametro y regresara si el usuario es "Mayor de edad" o es "Menor de Edad"
+var rest=a-b
+console.log(rest)

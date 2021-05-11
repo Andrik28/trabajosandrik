@@ -1,0 +1,13 @@
+h1{
+   color:blue;
+   margin: 20px;
+}
+
+.subtitulo{
+    font-size: 30px;
+}
+
+#nombre{
+    font-size: 24px;
+    color:crimson;
+}
